@@ -1,0 +1,17 @@
+{
+  "name": "Virginia Foods Inc. Applicant Portal",
+  "short_name": "VFI Portal",
+  "description": "Track and update your Virginia Foods Inc. job application.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8e7",
+  "theme_color": "#c8102e",
+  "icons": [
+    {
+      "src": "/brand/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
